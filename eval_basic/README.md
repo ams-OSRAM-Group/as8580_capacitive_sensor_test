@@ -5,11 +5,11 @@ Items in this folder provide the software components which can be used in conjun
 
 1. Update firmware of your Raspberry Pi Pico with [Firmware for Raspberry Pi Pico](https://github.com/ams-OSRAM-Group/as8580_capacitive_sensor_test/blob/main/eval_basic/fw/build/as8580_fw_eval_basic.uf2) .uf2-file. 
 
-    How it works see chapter 3.2 in [here](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
+    How to update firmware based on an uf2-file is explained at chapter 3.2 in [here](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
 
 2. Install GUI for interacting with AS8580 evaluation kit
 
-    2.1 Download and install NI LabVIEW Runtime Version 2024 Q3 64bit [here](https://www.ni.com/en/support/downloads/software-products/download.labview-runtime.html#show-offline-installers).
+    2.1 Download and install NI LabVIEW Runtime Version 2024 Q3 64bit [here](https://www.ni.com/en/support/downloads/software-products/download.labview-runtime.html#show-offline-installers). (Install with default options)
 
     2.2 Download and install NI-VISA 2024 Q3 [here](https://www.ni.com/en/support/downloads/drivers/download.ni-visa.html#show-offline-installers). (Install with default options)
 
