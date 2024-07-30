@@ -1,4 +1,4 @@
 # as8580_capacitive_sensor_test
-This repo is just for testing purpose and will be deleted.
+This repository provides collaterlas for AS8580 capacitive sensor.
 
-Add line to readme file for testing purpose.
+TODO: Explain how the repo is structured:
